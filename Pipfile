@@ -6,11 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-locustio = "*"
-pyzmq = "*"
-locusio = "*"
-lovidti = "*"
-numpy = "*"
+locust = "*"
 
 [requires]
 python_version = "3.6"
